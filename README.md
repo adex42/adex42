@@ -14,6 +14,18 @@
 <h2>✅ Miscellaneous Projects:</h2>
 - <b>Noise Reduction In Audion Signals Using Python</b> (https://github.com/adex42/Noise-Reduction-) <br>
 
+<h2>📜 Certifications:</h2>
+- <b>Cybersecurity Foundations</b><br>
+- <b>Ethical Hacking: Footprinting and
+Reconnaissance</b><br>
+- <b>Ethical Hacking: Scanning Networks</b><br>
+- <b>IT and Cybersecurity Risk Management
+Essential Training</b><br>
+- <b>Ethical Hacking: Scanning Networks</b><br>
+- <b>The Cybersecurity Threat Landscape</b><br>
+- <b>The MITRE ATT&CK Defender™ (MAD) ATT&CK® Fundamentals Badge Training</b><br>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
