@@ -12,7 +12,7 @@
 - <b>Student Portal</b> (https://adex42.github.io/Student-Portal/)
 
 <h2>✅ Miscellaneous Projects:</h2>
-- <b>Noise Reduction In Audion Signals Using Python</b> (https://github.com/adex42/Noise-Reduction-) <br>
+- <b>Noise Reduction In Audio Signals Using Python</b> (https://github.com/adex42/Noise-Reduction-) <br>
 
 <h2>📜 Certifications:</h2>
 - <b>Cybersecurity Foundations</b><br>
