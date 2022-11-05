@@ -13,6 +13,7 @@
 
 <h2>✅ Miscellaneous Projects:</h2>
 - <b>Noise Reduction In Audio Signals Using Python</b> (https://github.com/adex42/Noise-Reduction-) <br>
+- <b>Personal Assistant - Venom</b> (https://github.com/adex42/personal-assistant---venom) <br>  
 
 <h2>📜 Certifications:</h2>
 - <b>Cybersecurity Foundations</b><br>
