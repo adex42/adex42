@@ -2,6 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Secure Website Authentication</b> (https://github.com/adex42/Website-Authentication-and-secure-password-storage-)
+- <b>MAC Changer</b> (https://github.com/adex42/mac-changer)
 - <b>Password Strength Checker</b> (https://github.com/adex42/Passowrd-strength-checker)
 - <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
