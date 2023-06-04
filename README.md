@@ -3,8 +3,9 @@
 
 - <b>Secure Website Authentication</b> (https://github.com/adex42/Website-Authentication-and-secure-password-storage-)
 - <b>MAC Changer</b> (https://github.com/adex42/mac-changer)
-- <b>Password Strength Checker</b> (https://github.com/adex42/Passowrd-strength-checker)
+- <b>Network Scanner</b> (https://github.com/adex42/cesar-cypher](https://github.com/adex42/network-scanner)
 - <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
+- <b>Password Strength Checker</b> (https://github.com/adex42/Passowrd-strength-checker)
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
 
 
@@ -33,7 +34,4 @@ Essential Training</b><br>
   
 <!-- [<img align="left" alt="AditVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AditVerma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-instagram: https://www.instagram.com/joshmadakor/
-linkedin: https://www.linkedin.com/in/adit-verma-86a84b1b9/
-
+linkedin: https://www.linkedin.com/in/adit-verma-86a84b1b9/<br>
