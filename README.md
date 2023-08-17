@@ -33,7 +33,8 @@ Essential Training</b><br>
 - <b>The Cybersecurity Threat Landscape</b><br>
 - <b>The MITRE ATT&CK Defender™ (MAD) ATT&CK® Fundamentals Badge Training</b><br>
 
-
+<h2> Programming Languages </h2>h2>
+<img src = "https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.png?raw=true">
 
 <h2> 🤳 Connect with me:</h2>
   
