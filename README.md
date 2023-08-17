@@ -19,7 +19,7 @@
 - <b>Personal Assistant - Venom</b> (https://github.com/adex42/personal-assistant---venom) <br>  
 
 <h2>📜 Certifications:</h2>
-- <b>Google Google Cybersecurity Professional Certificate</b><br>
+- <b>Google Cybersecurity Professional Certificate</b><br>
 - <b>Certified in Cybersecurity by (ISC)²</b><br>
 - <b>Cybersecurity Essetials by Cisco</b><br>
 - <b>Cybersecurity Foundations </b><br>
