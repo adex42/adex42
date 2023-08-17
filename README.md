@@ -4,6 +4,7 @@
 - <b>Secure Website Authentication</b> (https://github.com/adex42/Website-Authentication-and-secure-password-storage-)
 - <b>MAC Changer</b> (https://github.com/adex42/mac-changer)
 - <b>Network Scanner</b> (https://github.com/adex42/cesar-cypher](https://github.com/adex42/network-scanner)
+- <b>Humblify VAPT Report</b>(https://drive.google.com/file/d/1rNbroscLEErcxldY1StQpbBLntKgSO19/view?usp=sharing)<br>
 - <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
 - <b>Password Strength Checker</b> (https://github.com/adex42/Passowrd-strength-checker)
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
@@ -18,6 +19,8 @@
 - <b>Personal Assistant - Venom</b> (https://github.com/adex42/personal-assistant---venom) <br>  
 
 <h2>📜 Certifications:</h2>
+- <b>Google Google Cybersecurity Professional Certificate</b><br>
+- <b>Cybersecurity Essetials by Cisco</b><br>
 - <b>Cybersecurity Foundations</b><br>
 - <b>Ethical Hacking: Footprinting and
 Reconnaissance</b><br>
