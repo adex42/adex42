@@ -1,6 +1,7 @@
 <h1>Hi, I'm Adit! <br/>
 <h2>👨‍💻 Cyber Security Projects:</h2>
-
+  
+- <b>Virtual Fortress - The System Hardening Automation Tool</b> (https://github.com/adex42/Virtual-Fortress/tree/main)
 - <b>Secure Website Authentication</b> (https://github.com/adex42/Website-Authentication-and-secure-password-storage-)
 - <b>MAC Changer</b> (https://github.com/adex42/mac-changer)
 - <b>Network Scanner</b> (https://github.com/adex42/cesar-cypher](https://github.com/adex42/network-scanner)
